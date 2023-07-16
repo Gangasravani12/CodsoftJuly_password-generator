@@ -1,5 +1,7 @@
 # CodsoftJuly_password-generator
 
+# Code Explaination
+
 **Importing Required Modules:**
 
 1.The first line imports all the classes and functions from the tkinter module, which is used for creating the graphical user interface (GUI).
